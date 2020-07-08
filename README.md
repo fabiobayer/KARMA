@@ -1,7 +1,7 @@
 # KARMA
 This repository contains an R implementation of the Kumaraswamy autoregressive moving average (KARMA) model (BAYER, BAYER AND PUMI, 2017). 
 
-For an example, please open the file "application-RH-santa-maria.r" to fit the KARMA model for a relative humidity (RH) time series. 
+For an application example, please open the file "application-RH-santa-maria.r" to fit the KARMA model for a relative humidity (RH) time series. 
 
 If you have any problem, please contact Fabio Bayer (bayer@ufsm.br). 
 
